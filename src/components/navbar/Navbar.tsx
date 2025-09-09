@@ -11,7 +11,8 @@ function Navbar() {
                     Epharmac
                     </Link>
                     <div className='flex gap-4'>
-                        Categorias
+                        <Link to='/categoria' className='hover:underline'>Categorias</Link>
+                        <Link to= '/cadastroCategoria' className='hover:underline'>Cadastrar Categoria</Link>
                     </div>
                 </div>
             </div>
