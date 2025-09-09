@@ -7,14 +7,7 @@ function Home() {
             <h2 className="text-5xl font-bold">Sua Epharmac</h2>
             <p className="text-xl">A saúde é sua, a qualidade é nossa!</p>
 
-            <div className="flex justify-around gap-4">
-              <div
-                className="rounded text-white
-                                            border-white border-solid border-2 py-2 px-4"
-              >
-                Categorias
-              </div>
-            </div>
+            <div className="flex justify-around gap-4"></div>
           </div>
 
           <div className="flex justify-center ">
